@@ -76,10 +76,13 @@ Token JWT.
 | `Bearer Token`      | `token` | **Required** Header|
 
 #### Response logout
+
+```
 {
     "status": true,
     "message": "User logged out successfully"
 }
+```
 
 #### Get Departments
 
